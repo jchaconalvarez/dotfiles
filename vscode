@@ -1,0 +1,69 @@
+{
+  "breadcrumbs.enabled": true,
+  "colorInfo.languages": [
+    {
+      "selector": "css",
+      "colors": "css"
+    },
+    {
+      "selector": "sass",
+      "colors": "css"
+    },
+    {
+      "selector": "scss",
+      "colors": "css"
+    },
+    {
+      "selector": "less",
+      "colors": "css"
+    },
+    {
+      "selector": "javascript",
+      "colors": "css"
+    }
+  ],
+  "editor.tabSize": 2,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorWidth": 3,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontSize": 14,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.renderIndentGuides": false,
+  "editor.tokenColorCustomizations": {
+    "[One Monokai 80s]": {
+      "textMateRules": [
+        {
+          "scope": "keyword.operator",
+          "settings": {
+            "foreground": "#51AAFF"
+          }
+        }
+      ]
+    }
+  },
+  "emmet.includeLanguages": {
+    "html": "html",
+    "javascript": "jsx"
+  },
+  "eslint.alwaysShowStatus": true,
+  "explorer.sortOrder": "type",
+  "explorer.confirmDelete": true,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "files.watcherExclude": {
+    "**/node_modules/**": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.eslintIntegration": true,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "todohighlight.isEnable": true,
+  "window.zoomLevel": -1,
+  "workbench.colorTheme": "One Monokai 80s",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.settings.editor": "json",
+  "python.insidersChannel": "off"
+}
