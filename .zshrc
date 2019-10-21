@@ -8,6 +8,9 @@ export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -105,6 +108,9 @@ source $ZSH/oh-my-zsh.sh
 # uninstall by removing these lines or running `tabtab uninstall electron-forge`
 [[ -f /Users/jch/JCH/WebDev/Projects/giru/node_modules/tabtab/.completions/electron-forge.zsh ]] && . /Users/jch/JCH/WebDev/Projects/giru/node_modules/tabtab/.completions/electron-forge.zsh
 
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+ZSH_HIGHLIGHT_STYLES[builtin]=fg=003,bold
+ZSH_HIGHLIGHT_STYLES[precommand]=fg=003,bold,underline
+ZSH_HIGHLIGHT_STYLES[command]=fg=003,bold
+ZSH_HIGHLIGHT_STYLES[function]=fg=003,bold
+ZSH_HIGHLIGHT_STYLES[unknown-token]=fg=245,bold
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE=fg=245
