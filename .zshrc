@@ -104,10 +104,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# tabtab source for electron-forge package
-# uninstall by removing these lines or running `tabtab uninstall electron-forge`
-[[ -f /Users/jch/JCH/WebDev/Projects/giru/node_modules/tabtab/.completions/electron-forge.zsh ]] && . /Users/jch/JCH/WebDev/Projects/giru/node_modules/tabtab/.completions/electron-forge.zsh
-
 ZSH_HIGHLIGHT_STYLES[builtin]=fg=003,bold
 ZSH_HIGHLIGHT_STYLES[precommand]=fg=003,bold,underline
 ZSH_HIGHLIGHT_STYLES[command]=fg=003,bold
