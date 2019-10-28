@@ -57,6 +57,9 @@
     "**/node_modules/**": true
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
+  "material-icon-theme.files.associations": {
+    ".env.pre": "tune"
+  },
   "python.insidersChannel": "off",
   "todohighlight.isEnable": true,
   "window.zoomLevel": -1,
