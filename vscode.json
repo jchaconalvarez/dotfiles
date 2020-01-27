@@ -22,15 +22,13 @@
       "colors": "css"
     }
   ],
+  "editor.tabSize": 2,
   "editor.cursorBlinking": "phase",
   "editor.cursorWidth": 3,
-  "editor.fontFamily": "Cascadia Code",
+  "editor.fontFamily": "Hermit",
   "editor.fontSize": 14,
-  "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
   "editor.renderIndentGuides": false,
-  "editor.showFoldingControls": "always",
-  "editor.tabSize": 2,
   "editor.tokenColorCustomizations": {
     "[One Monokai 80s]": {
       "textMateRules": [
@@ -43,29 +41,19 @@
       ]
     }
   },
-  "emmet.includeLanguages": {
-    "html": "html",
-    "javascript": "javascriptreact"
-  },
+  "emmet.includeLanguages": { "html": "html", "javascript": "jsx" },
   "eslint.alwaysShowStatus": true,
-  "eslint.autoFixOnSave": true,
   "explorer.sortOrder": "type",
   "explorer.confirmDelete": true,
   "files.trimFinalNewlines": true,
   "files.insertFinalNewline": true,
-  "files.watcherExclude": {
-    "**/node_modules/**": true
-  },
+  "files.watcherExclude": { "**/node_modules/**": true },
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "material-icon-theme.files.associations": {
-    ".env.pre": "tune"
-  },
-  "python.insidersChannel": "off",
   "todohighlight.isEnable": true,
   "window.zoomLevel": -1,
   "workbench.colorTheme": "One Monokai 80s",
-  "workbench.editor.highlightModifiedTabs": true,
-  "workbench.editor.tabSizing": "shrink",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.settings.editor": "json"
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.settings.editor": "json",
+  "sync.gist": "f8701510f17cec1195bb286e362dbdae",
 }
