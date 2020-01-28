@@ -1,20 +1,23 @@
-CoenraadS.bracket-pair-colorizer
-Zignd.html-css-class-completion
-axiomaticstudios.one-monokai-80s
-bierner.color-info
-christian-kohler.npm-intellisense
-christian-kohler.path-intellisense
-drKnoxy.eslint-disable-snippets
-formulahendry.auto-close-tag
-formulahendry.auto-rename-tag
-joelday.docthis
-jpoissonnier.vscode-styled-components
-naumovs.color-highlight
-octref.vetur
-pranaygp.vscode-css-peek
-Shan.code-settings-sync
-spywhere.guides
-tht13.html-preview-vscode
-waderyan.gitblame
-wayou.vscode-todo-highlight
-yzhang.markdown-all-in-one
+  auto-close-tag v0.5.6
+  auto-rename-tag v0.1.1
+  bracket-pair-colorizer v1.0.61
+  code-settings-sync v3.4.3
+  color-highlight v2.3.0
+  color-info v0.5.1
+  docthis v0.7.1
+  eslint-disable-snippets v1.2.0
+  gitblame v3.0.1
+  guides v0.9.3
+  html-css-class-completion v1.19.0
+  html-preview-vscode v0.2.5
+  markdown-all-in-one v2.7.0
+  material-icon-theme v3.9.2
+  npm-intellisense v1.3.0
+  one-monokai-80s v1.3.16
+  path-intellisense v1.4.2
+  prettier-vscode v3.18.0
+  vetur v0.23.0
+  vscode-css-peek v3.0.2
+  vscode-eslint v2.0.15
+  vscode-styled-components v0.0.28
+  vscode-todo-highlight v1.0.4
