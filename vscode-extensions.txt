@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CoenraadS.bracket-pair-colorizer
 Zignd.html-css-class-completion
 axiomaticstudios.one-monokai-80s
@@ -28,3 +29,35 @@ vincaslt.highlight-matching-tag
 waderyan.gitblame
 wayou.vscode-todo-highlight
 yzhang.markdown-all-in-one
+=======
+auto-close-tag v0.5.6
+  auto-rename-tag v0.1.1
+  bracket-pair-colorizer v1.0.61
+  code-settings-sync v3.4.3
+  color-highlight v2.3.0
+  color-info v0.5.1
+  debugger-for-chrome v4.12.6
+  docthis v0.7.1
+  dotenv v1.0.1
+  es7-react-js-snippets v2.5.0
+  eslint-disable-snippets v1.2.0
+  gitblame v3.0.1
+  gitlens v10.2.0
+  guides v0.9.3
+  highlight-matching-tag v0.9.6
+  html-css-class-completion v1.19.0
+  html-preview-vscode v0.2.5
+  markdown-all-in-one v2.7.0
+  material-icon-theme v3.9.2
+  npm-intellisense v1.3.0
+  one-monokai-80s v1.3.16
+  path-intellisense v1.4.2
+  polacode v0.3.4
+  prettier-vscode v3.19.0
+  vetur v0.23.0
+  vscode-css-peek v3.0.2
+  vscode-dimmer v2.1.0
+  vscode-eslint v2.0.15
+  vscode-styled-components v0.0.28
+  vscode-todo-highlight v1.0.4
+>>>>>>> bc139f35c0eace4fec6a00255b7b7a6f03b35934
